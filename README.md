@@ -6,11 +6,11 @@ de diagramme UML, SysML et SysML-sec.
    - Inclusion des outils d’analyse des diagrammes : Prendre en considération des différents back-end disponible dans l’outil TTool             permettant de vérifier les propriétés de sécurité du système modélisé avec l’outil.
     
  Les logiciels utilisés pour la réalisation de ce projet sont :
-    - Javascript 
-    - HTML
-    - CSS
-    - JQuery
-    - Bootstrap
-    - MxGraph
-    - Plateforme JEE
-    - L’architecture MVC
+   - Javascript 
+   - HTML
+   - CSS
+   - JQuery
+   - Bootstrap
+   - MxGraph
+   - Plateforme JEE
+   - L’architecture MVC
