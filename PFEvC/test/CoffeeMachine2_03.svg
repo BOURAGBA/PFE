@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="559" height="335" viewbox="293 44 266 291">
+<ellipse  cx="322" cy="56" rx="7" ry="7" fill="#000000"/>
+<line  x1="322" y1="64" x2="322" y2="69" stroke="#000000" stroke-width="1" fill="none"/>
+<rect  x="298" y="88" width="50" height="30" rx="5" ry="5" fill="#c1daf1"/>
+<rect  x="298" y="88" width="50" height="30" rx="5" ry="5" fill="none" stroke="#000000" stroke-width="1"/>
+<text  x="309" y="103" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">main</text>
+<line  x1="298" y1="105" x2="348" y2="105" stroke="#000000" stroke-width="1" fill="none"/>
+<rect  x="362" y="300" width="50" height="30" rx="5" ry="5" fill="#c1daf1"/>
+<rect  x="362" y="300" width="50" height="30" rx="5" ry="5" fill="none" stroke="#000000" stroke-width="1"/>
+<text  x="373" y="315" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">main</text>
+<line  x1="362" y1="317" x2="412" y2="317" stroke="#000000" stroke-width="1" fill="none"/>
+<line  x1="341" y1="205" x2="341" y2="200" stroke="#000000" stroke-width="1" fill="none"/>
+<line  x1="341" y1="225" x2="341" y2="230" stroke="#000000" stroke-width="1" fill="none"/>
+<line  x1="319" y1="206" x2="355" y2="206" stroke="#80b4cd" stroke-width="1" fill="none"/>
+<line  x1="319" y1="226" x2="355" y2="226" stroke="#80b4cd" stroke-width="1" fill="none"/>
+<line  x1="319" y1="206" x2="319" y2="226" stroke="#80b4cd" stroke-width="1" fill="none"/>
+<line  x1="355" y1="206" x2="365" y2="216" stroke="#80b4cd" stroke-width="1" fill="none"/>
+<line  x1="355" y1="226" x2="365" y2="216" stroke="#80b4cd" stroke-width="1" fill="none"/>
+<line  x1="318" y1="205" x2="354" y2="205" stroke="#000000" stroke-width="1" fill="none"/>
+<line  x1="318" y1="225" x2="354" y2="225" stroke="#000000" stroke-width="1" fill="none"/>
+<line  x1="318" y1="205" x2="318" y2="225" stroke="#000000" stroke-width="1" fill="none"/>
+<line  x1="354" y1="205" x2="364" y2="215" stroke="#000000" stroke-width="1" fill="none"/>
+<line  x1="354" y1="225" x2="364" y2="215" stroke="#000000" stroke-width="1" fill="none"/>
+<text  x="323" y="220" style="font-size:12; font-family:SansSerif.plain; fill=#000000">push()</text>
+<line  x1="341" y1="230" x2="387" y2="300" stroke="#000000" stroke-width="1" fill="none"/>
+<polygon  points="387,300 378,295 386,290 " fill="#000000"/>
+<polygon  points="387,300 378,295 386,290 " fill="none" stroke="#000000" stroke-width="1"/>
+<text  x="405" y="283" style="font-size:12; font-family:SansSerif.plain; fill=#694b0b">after (mechanicalDelay)</text>
+<line  x1="322" y1="69" x2="323" y2="88" stroke="#000000" stroke-width="1" fill="none"/>
+<polygon  points="323,88 317,79 327,79 " fill="#000000"/>
+<polygon  points="323,88 317,79 327,79 " fill="none" stroke="#000000" stroke-width="1"/>
+<line  x1="323" y1="118" x2="341" y2="200" stroke="#000000" stroke-width="1" fill="none"/>
+<polygon  points="341,200 334,192 344,190 " fill="#000000"/>
+<polygon  points="341,200 334,192 344,190 " fill="none" stroke="#000000" stroke-width="1"/>
+</svg>

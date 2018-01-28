@@ -1,0 +1,96 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="614" height="621" viewbox="145 56 469 565">
+<rect  x="467" y="209" width="100" height="49" rx="20" ry="20" fill="#8fb66e"/>
+<line  x1="468" y1="219" x2="468" y2="248" stroke="#ccff9d" stroke-width="1" fill="none"/>
+<line  x1="477" y1="210" x2="557" y2="210" stroke="#ccff9d" stroke-width="1" fill="none"/>
+<line  x1="566" y1="219" x2="566" y2="248" stroke="#647f4d" stroke-width="1" fill="none"/>
+<line  x1="477" y1="257" x2="557" y2="257" stroke="#647f4d" stroke-width="1" fill="none"/>
+<rect  x="467" y="209" width="100" height="49" rx="20" ry="20" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="517" y="244" width="49" height="14" rx="20" ry="20" fill="#cdc46d"/>
+<line  x1="518" y1="254" x2="518" y2="248" stroke="#ffff9b" stroke-width="1" fill="none"/>
+<line  x1="527" y1="245" x2="556" y2="245" stroke="#ffff9b" stroke-width="1" fill="none"/>
+<line  x1="565" y1="254" x2="565" y2="248" stroke="#8f894c" stroke-width="1" fill="none"/>
+<line  x1="527" y1="257" x2="556" y2="257" stroke="#8f894c" stroke-width="1" fill="none"/>
+<rect  x="517" y="244" width="49" height="14" rx="20" ry="20" fill="none" stroke="#000000" stroke-width="1"/>
+<text  x="478" y="224" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">&lt;&lt;equation&gt;&gt;</text>
+<text  x="474" y="239" style="font-size:12; font-family:SansSerif.plain; fill=#000000">nbOfCoins &gt;= 0</text>
+<text  x="525" y="255" style="font-size:12; font-family:SansSerif.italic; font-style=italic; fill=#000000">toggle</text>
+<rect  x="459" y="61" width="150" height="116" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="460" y="62" width="148" height="30" fill="#c1daf1"/>
+<text  x="504" y="76" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">&lt;&lt;block&gt;&gt;</text>
+<text  x="517" y="91" style="font-size:12; font-family:SansSerif.plain; fill=#000000">Wallet</text>
+<rect  x="460" y="93" width="148" height="82" fill="#c1daf1"/>
+<rect  x="492" y="102" width="100" height="49" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="493" y="103" width="98" height="33" fill="#8fb66e"/>
+<rect  x="493" y="137" width="98" height="13" fill="#cdc46d"/>
+<text  x="504" y="117" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">&lt;&lt;attribute&gt;&gt;</text>
+<text  x="512" y="132" style="font-size:12; font-family:SansSerif.plain; fill=#000000">nbOfCoins</text>
+<text  x="525" y="148" style="font-size:12; font-family:SansSerif.italic; font-style=italic; fill=#000000">toggle</text>
+<rect  x="150" y="142" width="168" height="154" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="151" y="143" width="166" height="30" fill="#c1daf1"/>
+<text  x="204" y="157" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">&lt;&lt;block&gt;&gt;</text>
+<text  x="193" y="172" style="font-size:12; font-family:SansSerif.plain; fill=#000000">CoffeeMachine</text>
+<rect  x="151" y="174" width="166" height="120" fill="#c1daf1"/>
+<rect  x="165" y="241" width="148" height="40" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="166" y="242" width="146" height="38" fill="#cdc46d"/>
+<text  x="208" y="256" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">&lt;&lt;signal&gt;&gt;</text>
+<text  x="167" y="271" style="font-size:12; font-family:SansSerif.plain; fill=#000000">WaitingForFirstCoin_enter</text>
+<rect  x="170" y="191" width="138" height="40" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="171" y="192" width="136" height="38" fill="#cdc46d"/>
+<text  x="208" y="206" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">&lt;&lt;signal&gt;&gt;</text>
+<text  x="172" y="221" style="font-size:12; font-family:SansSerif.plain; fill=#000000">WaitingForFirstCoin_exit</text>
+<rect  x="361" y="187" width="59" height="99" rx="20" ry="20" fill="#cdc46d"/>
+<line  x1="362" y1="197" x2="362" y2="276" stroke="#ffff9b" stroke-width="1" fill="none"/>
+<line  x1="371" y1="188" x2="410" y2="188" stroke="#ffff9b" stroke-width="1" fill="none"/>
+<line  x1="419" y1="197" x2="419" y2="276" stroke="#8f894c" stroke-width="1" fill="none"/>
+<line  x1="371" y1="285" x2="410" y2="285" stroke="#8f894c" stroke-width="1" fill="none"/>
+<rect  x="361" y="187" width="59" height="99" rx="20" ry="20" fill="none" stroke="#000000" stroke-width="1"/>
+<text  x="369" y="204" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">&lt;&lt;TC&gt;&gt;</text>
+<text  x="380" y="216" style="font-size:12; font-family:SansSerif.italic; font-style=italic; fill=#000000">&gt;50</text>
+<rect  x="340" y="331" width="100" height="55" rx="20" ry="20" fill="#e4f1f2"/>
+<line  x1="341" y1="341" x2="341" y2="376" stroke="#ffffff" stroke-width="1" fill="none"/>
+<line  x1="350" y1="332" x2="430" y2="332" stroke="#ffffff" stroke-width="1" fill="none"/>
+<line  x1="439" y1="341" x2="439" y2="376" stroke="#9fa8a9" stroke-width="1" fill="none"/>
+<line  x1="350" y1="385" x2="430" y2="385" stroke="#9fa8a9" stroke-width="1" fill="none"/>
+<rect  x="340" y="331" width="100" height="55" rx="20" ry="20" fill="none" stroke="#000000" stroke-width="1"/>
+<text  x="352" y="346" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">&lt;&lt;property&gt;&gt;</text>
+<text  x="344" y="361" style="font-size:12; font-family:SansSerif.plain; fill=#000000">oneCoinProperty</text>
+<text  x="348" y="379" style="font-size:12; font-family:SansSerif.italic; font-style=italic; fill=#000000">not reachability</text>
+<rect  x="446" y="334" width="109" height="55" rx="20" ry="20" fill="#e4f1f2"/>
+<line  x1="447" y1="344" x2="447" y2="379" stroke="#ffffff" stroke-width="1" fill="none"/>
+<line  x1="456" y1="335" x2="545" y2="335" stroke="#ffffff" stroke-width="1" fill="none"/>
+<line  x1="554" y1="344" x2="554" y2="379" stroke="#9fa8a9" stroke-width="1" fill="none"/>
+<line  x1="456" y1="388" x2="545" y2="388" stroke="#9fa8a9" stroke-width="1" fill="none"/>
+<rect  x="446" y="334" width="109" height="55" rx="20" ry="20" fill="none" stroke="#000000" stroke-width="1"/>
+<text  x="462" y="349" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">&lt;&lt;property&gt;&gt;</text>
+<text  x="448" y="364" style="font-size:12; font-family:SansSerif.plain; fill=#000000">WalletCoinProperty</text>
+<text  x="478" y="382" style="font-size:12; font-family:SansSerif.italic; font-style=italic; fill=#000000">liveness</text>
+<line  x1="308" y1="211" x2="361" y2="211" stroke="#000000" stroke-width="1" fill="none"/>
+<polygon  points="361,211 352,215 352,206 " fill="#000000"/>
+<polygon  points="361,211 352,215 352,206 " fill="none" stroke="#000000" stroke-width="1"/>
+<ellipse  cx="390" cy="331" rx="5" ry="5" fill="#ffffff"/>
+<ellipse  cx="390" cy="331" rx="5" ry="5" fill="none" stroke="#000000" stroke-width="1"/>
+<line  x1="390" y1="286" x2="390" y2="326" stroke="#000000" stroke-width="1" fill="none"/>
+<polygon  points="390,326 385,317 394,317 " fill="#000000"/>
+<polygon  points="390,326 385,317 394,317 " fill="none" stroke="#000000" stroke-width="1"/>
+<ellipse  cx="390" cy="286" rx="5" ry="5" fill="#ffffff"/>
+<ellipse  cx="390" cy="286" rx="5" ry="5" fill="none" stroke="#000000" stroke-width="1"/>
+<line  x1="313" y1="261" x2="361" y2="261" stroke="#000000" stroke-width="1" fill="none"/>
+<polygon  points="361,261 352,265 352,256 " fill="#000000"/>
+<polygon  points="361,261 352,265 352,256 " fill="none" stroke="#000000" stroke-width="1"/>
+<line  x1="492" y1="126" x2="467" y2="147" stroke="#000000" stroke-width="1" fill="none"/>
+<line  x1="467" y1="147" x2="467" y2="192" stroke="#000000" stroke-width="1" fill="none"/>
+<rect  x="489" y="206" width="5" height="5" fill="#000000"/>
+<rect  x="489" y="123" width="5" height="5" fill="#000000"/>
+<line  x1="467" y1="192" x2="489" y2="206" stroke="#000000" stroke-width="1" fill="none"/>
+<polygon  points="489,206 479,205 484,197 " fill="#000000"/>
+<polygon  points="489,206 479,205 484,197 " fill="none" stroke="#000000" stroke-width="1"/>
+<ellipse  cx="500" cy="334" rx="5" ry="5" fill="#ffffff"/>
+<ellipse  cx="500" cy="334" rx="5" ry="5" fill="none" stroke="#000000" stroke-width="1"/>
+<line  x1="502" y1="258" x2="500" y2="329" stroke="#000000" stroke-width="1" fill="none"/>
+<polygon  points="500,329 495,320 505,320 " fill="#000000"/>
+<polygon  points="500,329 495,320 505,320 " fill="none" stroke="#000000" stroke-width="1"/>
+<ellipse  cx="502" cy="258" rx="5" ry="5" fill="#ffffff"/>
+<ellipse  cx="502" cy="258" rx="5" ry="5" fill="none" stroke="#000000" stroke-width="1"/>
+</svg>

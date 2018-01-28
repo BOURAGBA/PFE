@@ -1,0 +1,128 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1160" height="597" viewbox="13 55 1147 542">
+<line  x1="795" y1="355" x2="950" y2="359" stroke="#000000" stroke-width="1" fill="none"/>
+<line  x1="354" y1="540" x2="633" y2="438" stroke="#000000" stroke-width="1" fill="none"/>
+<line  x1="354" y1="359" x2="633" y2="355" stroke="#000000" stroke-width="1" fill="none"/>
+<line  x1="356" y1="150" x2="633" y2="258" stroke="#000000" stroke-width="1" fill="none"/>
+<rect  x="816" y="274" width="100" height="25" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="817" y="275" width="98" height="23" fill="#ffff00"/>
+<text  x="821" y="290" style="font-size:12; font-family:SansSerif; font-weight=bold; fill=#000000">Synchro</text>
+<text  x="818" y="233" style="font-size:12; font-family:SansSerif; fill=#000000">{ Medium.port_i = WebServer.sendData</text>
+<text  x="818" y="250" style="font-size:12; font-family:SansSerif; fill=#000000">Medium.port_o = WebServer.getRequest }</text>
+<rect  x="442" y="436" width="100" height="25" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="443" y="437" width="98" height="23" fill="#ffff00"/>
+<text  x="447" y="452" style="font-size:12; font-family:SansSerif; font-weight=bold; fill=#000000">Synchro</text>
+<text  x="439" y="558" style="font-size:12; font-family:SansSerif; fill=#000000">{ cl3_WebClient.sendRequest = Medium.port3_i</text>
+<text  x="439" y="575" style="font-size:12; font-family:SansSerif; fill=#000000">cl3_WebClient.getData = Medium.port3_o }</text>
+<rect  x="443" y="303" width="100" height="25" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="444" y="304" width="98" height="23" fill="#ffff00"/>
+<text  x="448" y="319" style="font-size:12; font-family:SansSerif; font-weight=bold; fill=#000000">Synchro</text>
+<text  x="360" y="380" style="font-size:12; font-family:SansSerif; fill=#000000">{ cl2_WebClient.sendRequest = Medium.port2_i</text>
+<text  x="360" y="397" style="font-size:12; font-family:SansSerif; fill=#000000">cl2_WebClient.getData = Medium.port2_o }</text>
+<rect  x="457" y="142" width="100" height="25" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="458" y="143" width="98" height="23" fill="#ffff00"/>
+<text  x="462" y="158" style="font-size:12; font-family:SansSerif; font-weight=bold; fill=#000000">Synchro</text>
+<text  x="383" y="101" style="font-size:12; font-family:SansSerif; fill=#000000">{ cl1_WebClient.sendRequest = Medium.port1_i</text>
+<text  x="383" y="118" style="font-size:12; font-family:SansSerif; fill=#000000">cl1_WebClient.getData = Medium.port1_o }</text>
+<rect  x="633" y="198" width="162" height="30" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="634" y="199" width="160" height="28" fill="#ffff00"/>
+<text  x="638" y="216" style="font-size:12; font-family:SansSerif; font-weight=bold; fill=#000000">Medium</text>
+<text  x="735" y="226" style="font-size:10; font-family:SansSerif; fill=#000000">&lt;&lt;start&gt;&gt;</text>
+<rect  x="633" y="228" width="162" height="60" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="634" y="229" width="160" height="58" fill="#c7f369"/>
+<text  x="638" y="248" style="font-size:12; font-family:SansSerif; fill=#000000">+ tr_delay = 10 : Natural;</text>
+<text  x="638" y="263" style="font-size:12; font-family:SansSerif; fill=#000000">+ id1 : Natural;</text>
+<text  x="638" y="278" style="font-size:12; font-family:SansSerif; fill=#000000">+ id2 : Natural;</text>
+<rect  x="633" y="288" width="162" height="135" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="634" y="289" width="160" height="133" fill="#d7f1f7"/>
+<text  x="638" y="308" style="font-size:12; font-family:SansSerif; fill=#000000">+ port1_i : InGate;</text>
+<text  x="638" y="323" style="font-size:12; font-family:SansSerif; fill=#000000">+ port2_i : InGate;</text>
+<text  x="638" y="338" style="font-size:12; font-family:SansSerif; fill=#000000">+ port3_i : InGate;</text>
+<text  x="638" y="353" style="font-size:12; font-family:SansSerif; fill=#000000">+ port1_o : OutGate;</text>
+<text  x="638" y="368" style="font-size:12; font-family:SansSerif; fill=#000000">+ port2_o : OutGate;</text>
+<text  x="638" y="383" style="font-size:12; font-family:SansSerif; fill=#000000">+ port3_o : OutGate;</text>
+<text  x="638" y="398" style="font-size:12; font-family:SansSerif; fill=#000000">+ port_i : InGate;</text>
+<text  x="638" y="413" style="font-size:12; font-family:SansSerif; fill=#000000">+ port_o : OutGate;</text>
+<rect  x="633" y="423" width="162" height="30" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="634" y="424" width="160" height="28" fill="#f3cf9e"/>
+<rect  x="633" y="453" width="162" height="30" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="634" y="454" width="160" height="28" fill="#ffd0ff"/>
+<rect  x="204" y="239" width="150" height="30" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="205" y="240" width="148" height="28" fill="#ffff00"/>
+<text  x="209" y="257" style="font-size:12; font-family:SansSerif; font-weight=bold; fill=#000000">cl2:WebClient</text>
+<line  x1="209" y1="258" x2="293" y2="258" stroke="#000000" stroke-width="1" fill="none"/>
+<text  x="294" y="267" style="font-size:10; font-family:SansSerif; fill=#000000">&lt;&lt;start&gt;&gt;</text>
+<rect  x="204" y="269" width="150" height="45" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="205" y="270" width="148" height="43" fill="#c7f369"/>
+<text  x="209" y="289" style="font-size:12; font-family:SansSerif; fill=#000000">id = 2;</text>
+<text  x="209" y="304" style="font-size:12; font-family:SansSerif; fill=#000000">id_received;</text>
+<rect  x="204" y="314" width="150" height="30" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="205" y="315" width="148" height="28" fill="#d7f1f7"/>
+<rect  x="204" y="344" width="150" height="30" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="205" y="345" width="148" height="28" fill="#f3cf9e"/>
+<rect  x="204" y="374" width="150" height="30" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="205" y="375" width="148" height="28" fill="#ffd0ff"/>
+<rect  x="204" y="420" width="150" height="30" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="205" y="421" width="148" height="28" fill="#ffff00"/>
+<text  x="209" y="438" style="font-size:12; font-family:SansSerif; font-weight=bold; fill=#000000">cl3:WebClient</text>
+<line  x1="209" y1="439" x2="293" y2="439" stroke="#000000" stroke-width="1" fill="none"/>
+<text  x="294" y="448" style="font-size:10; font-family:SansSerif; fill=#000000">&lt;&lt;start&gt;&gt;</text>
+<rect  x="204" y="450" width="150" height="45" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="205" y="451" width="148" height="43" fill="#c7f369"/>
+<text  x="209" y="470" style="font-size:12; font-family:SansSerif; fill=#000000">id = 3;</text>
+<text  x="209" y="485" style="font-size:12; font-family:SansSerif; fill=#000000">id_received;</text>
+<rect  x="204" y="495" width="150" height="30" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="205" y="496" width="148" height="28" fill="#d7f1f7"/>
+<rect  x="204" y="525" width="150" height="30" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="205" y="526" width="148" height="28" fill="#f3cf9e"/>
+<rect  x="204" y="555" width="150" height="30" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="205" y="556" width="148" height="28" fill="#ffd0ff"/>
+<rect  x="206" y="60" width="150" height="30" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="207" y="61" width="148" height="28" fill="#ffff00"/>
+<text  x="211" y="78" style="font-size:12; font-family:SansSerif; font-weight=bold; fill=#000000">cl1:WebClient</text>
+<line  x1="211" y1="79" x2="295" y2="79" stroke="#000000" stroke-width="1" fill="none"/>
+<text  x="296" y="88" style="font-size:10; font-family:SansSerif; fill=#000000">&lt;&lt;start&gt;&gt;</text>
+<rect  x="206" y="90" width="150" height="45" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="207" y="91" width="148" height="43" fill="#c7f369"/>
+<text  x="211" y="110" style="font-size:12; font-family:SansSerif; fill=#000000">id = 1;</text>
+<text  x="211" y="125" style="font-size:12; font-family:SansSerif; fill=#000000">id_received;</text>
+<rect  x="206" y="135" width="150" height="30" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="207" y="136" width="148" height="28" fill="#d7f1f7"/>
+<rect  x="206" y="165" width="150" height="30" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="207" y="166" width="148" height="28" fill="#f3cf9e"/>
+<rect  x="206" y="195" width="150" height="30" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="207" y="196" width="148" height="28" fill="#ffd0ff"/>
+<rect  x="950" y="262" width="205" height="30" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="951" y="263" width="203" height="28" fill="#ffff00"/>
+<text  x="955" y="280" style="font-size:12; font-family:SansSerif; font-weight=bold; fill=#000000">WebServer</text>
+<text  x="1095" y="290" style="font-size:10; font-family:SansSerif; fill=#000000">&lt;&lt;start&gt;&gt;</text>
+<rect  x="950" y="292" width="205" height="45" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="951" y="293" width="203" height="43" fill="#c7f369"/>
+<text  x="955" y="312" style="font-size:12; font-family:SansSerif; fill=#000000">+ computing_delay = 6 : Natural;</text>
+<text  x="955" y="327" style="font-size:12; font-family:SansSerif; fill=#000000">+ id : Natural;</text>
+<rect  x="950" y="337" width="205" height="45" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="951" y="338" width="203" height="43" fill="#d7f1f7"/>
+<text  x="955" y="357" style="font-size:12; font-family:SansSerif; fill=#000000">+ getRequest : InGate;</text>
+<text  x="955" y="372" style="font-size:12; font-family:SansSerif; fill=#000000">+ sendData : OutGate;</text>
+<rect  x="950" y="382" width="205" height="30" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="951" y="383" width="203" height="28" fill="#f3cf9e"/>
+<rect  x="950" y="412" width="205" height="30" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="951" y="413" width="203" height="28" fill="#ffd0ff"/>
+<rect  x="18" y="225" width="162" height="30" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="19" y="226" width="160" height="28" fill="#ffff00"/>
+<text  x="23" y="243" style="font-size:12; font-family:SansSerif; font-weight=bold; fill=#000000">WebClient</text>
+<rect  x="18" y="255" width="162" height="45" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="19" y="256" width="160" height="43" fill="#c7f369"/>
+<text  x="23" y="275" style="font-size:12; font-family:SansSerif; fill=#000000">+ id : Natural;</text>
+<text  x="23" y="290" style="font-size:12; font-family:SansSerif; fill=#000000">+ id_received : Natural;</text>
+<rect  x="18" y="300" width="162" height="60" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="19" y="301" width="160" height="58" fill="#d7f1f7"/>
+<text  x="23" y="320" style="font-size:12; font-family:SansSerif; fill=#000000">+ sendRequest : OutGate;</text>
+<text  x="23" y="335" style="font-size:12; font-family:SansSerif; fill=#000000">+ getData : InGate;</text>
+<text  x="23" y="350" style="font-size:12; font-family:SansSerif; fill=#000000">- dataReceived : Gate;</text>
+<rect  x="18" y="360" width="162" height="30" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="19" y="361" width="160" height="28" fill="#f3cf9e"/>
+<rect  x="18" y="390" width="162" height="30" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="19" y="391" width="160" height="28" fill="#ffd0ff"/>
+</svg>

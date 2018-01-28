@@ -1,0 +1,130 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="944" height="582" viewbox="5 11 939 571">
+<line  x1="582" y1="170" x2="496" y2="98" stroke="#000000" stroke-width="1" fill="none"/>
+<line  x1="496" y1="98" x2="505" y2="99" stroke="#000000" stroke-width="1" fill="none"/>
+<line  x1="496" y1="98" x2="499" y2="107" stroke="#000000" stroke-width="1" fill="none"/>
+<text  x="511" y="134" style="font-size:12; font-family:SansSerif.plain; fill=#000000">&lt;&lt;verify&gt;&gt;</text>
+<line  x1="580" y1="261" x2="505" y2="199" stroke="#000000" stroke-width="1" fill="none"/>
+<line  x1="505" y1="199" x2="514" y2="200" stroke="#000000" stroke-width="1" fill="none"/>
+<line  x1="505" y1="199" x2="508" y2="208" stroke="#000000" stroke-width="1" fill="none"/>
+<text  x="515" y="230" style="font-size:12; font-family:SansSerif.plain; fill=#000000">&lt;&lt;verify&gt;&gt;</text>
+<line  x1="627" y1="391" x2="563" y2="361" stroke="#000000" stroke-width="1" fill="none"/>
+<line  x1="563" y1="361" x2="572" y2="360" stroke="#000000" stroke-width="1" fill="none"/>
+<line  x1="563" y1="361" x2="568" y2="369" stroke="#000000" stroke-width="1" fill="none"/>
+<text  x="567" y="376" style="font-size:12; font-family:SansSerif.plain; fill=#000000">&lt;&lt;verify&gt;&gt;</text>
+<line  x1="192" y1="98" x2="122" y2="182" stroke="#000000" stroke-width="1" fill="none"/>
+<ellipse  cx="123" cy="178" rx="5" ry="5" fill="#ffffff"/>
+<ellipse  cx="122" cy="177" rx="5" ry="5" fill="none" stroke="#000000" stroke-width="1"/>
+<line  x1="122" y1="172" x2="122" y2="182" stroke="#000000" stroke-width="1" fill="none"/>
+<line  x1="117" y1="177" x2="127" y2="177" stroke="#000000" stroke-width="1" fill="none"/>
+<line  x1="234" y1="199" x2="160" y2="212" stroke="#000000" stroke-width="1" fill="none"/>
+<ellipse  cx="166" cy="213" rx="5" ry="5" fill="#ffffff"/>
+<ellipse  cx="165" cy="212" rx="5" ry="5" fill="none" stroke="#000000" stroke-width="1"/>
+<line  x1="165" y1="207" x2="165" y2="217" stroke="#000000" stroke-width="1" fill="none"/>
+<line  x1="160" y1="212" x2="170" y2="212" stroke="#000000" stroke-width="1" fill="none"/>
+<line  x1="206" y1="327" x2="160" y2="272" stroke="#000000" stroke-width="1" fill="none"/>
+<ellipse  cx="166" cy="273" rx="5" ry="5" fill="#ffffff"/>
+<ellipse  cx="165" cy="272" rx="5" ry="5" fill="none" stroke="#000000" stroke-width="1"/>
+<line  x1="165" y1="267" x2="165" y2="277" stroke="#000000" stroke-width="1" fill="none"/>
+<line  x1="160" y1="272" x2="170" y2="272" stroke="#000000" stroke-width="1" fill="none"/>
+<line  x1="122" y1="457" x2="122" y2="302" stroke="#000000" stroke-width="1" fill="none"/>
+<ellipse  cx="123" cy="308" rx="5" ry="5" fill="#ffffff"/>
+<ellipse  cx="122" cy="307" rx="5" ry="5" fill="none" stroke="#000000" stroke-width="1"/>
+<line  x1="122" y1="302" x2="122" y2="312" stroke="#000000" stroke-width="1" fill="none"/>
+<line  x1="117" y1="307" x2="127" y2="307" stroke="#000000" stroke-width="1" fill="none"/>
+<line  x1="661" y1="47" x2="496" y2="43" stroke="#000000" stroke-width="1" fill="none"/>
+<line  x1="496" y1="43" x2="504" y2="38" stroke="#000000" stroke-width="1" fill="none"/>
+<line  x1="496" y1="43" x2="504" y2="48" stroke="#000000" stroke-width="1" fill="none"/>
+<text  x="535" y="45" style="font-size:12; font-family:SansSerif.plain; fill=#000000">&lt;&lt;deriveReqt&gt;&gt;</text>
+<rect  x="206" y="294" width="357" height="135" fill="none" stroke="#000000" stroke-width="1"/>
+<line  x1="206" y1="324" x2="563" y2="324" stroke="#000000" stroke-width="1" fill="none"/>
+<rect  x="207" y="295" width="355" height="28" fill="#e4f1f2"/>
+<rect  x="207" y="325" width="355" height="103" fill="#cdc46d"/>
+<text  x="342" y="304" style="font-size:10; font-family:SansSerif.plain; fill=#000000">&lt;&lt;Requirement&gt;&gt;</text>
+<text  x="371" y="316" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">req2</text>
+<text  x="211" y="336" style="font-size:12; font-family:SansSerif.plain; fill=#000000">ID=0</text>
+<text  x="211" y="348" style="font-size:12; font-family:SansSerif.plain; fill=#000000">Text=&quot;When the application starts, if the wallet contains </text>
+<text  x="211" y="360" style="font-size:12; font-family:SansSerif.plain; fill=#000000">at least 2 coins, then a beverage may be delivered. </text>
+<text  x="211" y="372" style="font-size:12; font-family:SansSerif.plain; fill=#000000">On the contrary, if the wallet contains less than 2</text>
+<text  x="211" y="384" style="font-size:12; font-family:SansSerif.plain; fill=#000000">coins, no beverage will be delivered by the</text>
+<text  x="211" y="396" style="font-size:12; font-family:SansSerif.plain; fill=#000000">machine.&quot;</text>
+<text  x="211" y="408" style="font-size:12; font-family:SansSerif.plain; fill=#000000">Kind=&quot;Functional&quot;</text>
+<text  x="211" y="420" style="font-size:12; font-family:SansSerif.plain; fill=#000000">Risk=&quot;Low&quot;</text>
+<rect  x="192" y="16" width="304" height="110" fill="none" stroke="#000000" stroke-width="1"/>
+<line  x1="192" y1="46" x2="496" y2="46" stroke="#000000" stroke-width="1" fill="none"/>
+<rect  x="193" y="17" width="302" height="28" fill="#e4f1f2"/>
+<rect  x="193" y="47" width="302" height="78" fill="#cdc46d"/>
+<text  x="301" y="26" style="font-size:10; font-family:SansSerif.plain; fill=#000000">&lt;&lt;Requirement&gt;&gt;</text>
+<text  x="331" y="38" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">req0</text>
+<text  x="197" y="58" style="font-size:12; font-family:SansSerif.plain; fill=#000000">ID=123</text>
+<text  x="197" y="70" style="font-size:12; font-family:SansSerif.plain; fill=#000000">Text=&quot;The coffee machine never has one coin </text>
+<text  x="197" y="82" style="font-size:12; font-family:SansSerif.plain; fill=#000000"> inserted more than 50 units of time&quot;</text>
+<text  x="197" y="94" style="font-size:12; font-family:SansSerif.plain; fill=#000000">Kind=&quot;Functional&quot;</text>
+<text  x="197" y="106" style="font-size:12; font-family:SansSerif.plain; fill=#000000">Risk=&quot;Low&quot;</text>
+<text  x="197" y="118" style="font-size:12; font-family:SansSerif.plain; fill=#000000">Reference elements=&quot;&quot;</text>
+<rect  x="582" y="155" width="150" height="30" fill="none" stroke="#000000" stroke-width="1"/>
+<line  x1="582" y1="185" x2="732" y2="185" stroke="#000000" stroke-width="1" fill="none"/>
+<rect  x="583" y="156" width="148" height="28" fill="#e4f1f2"/>
+<rect  x="583" y="186" width="148" height="-2" fill="#cdc46d"/>
+<text  x="625" y="165" style="font-size:10; font-family:SansSerif.plain; fill=#000000">&lt;&lt;Property&gt;&gt;</text>
+<text  x="608" y="177" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">OneCoinProperty</text>
+<rect  x="234" y="147" width="271" height="104" fill="none" stroke="#000000" stroke-width="1"/>
+<line  x1="234" y1="177" x2="505" y2="177" stroke="#000000" stroke-width="1" fill="none"/>
+<rect  x="235" y="148" width="269" height="28" fill="#e4f1f2"/>
+<rect  x="235" y="178" width="269" height="72" fill="#cdc46d"/>
+<text  x="327" y="157" style="font-size:10; font-family:SansSerif.plain; fill=#000000">&lt;&lt;Requirement&gt;&gt;</text>
+<text  x="356" y="169" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">req1</text>
+<text  x="239" y="189" style="font-size:12; font-family:SansSerif.plain; fill=#000000">ID=0</text>
+<text  x="239" y="201" style="font-size:12; font-family:SansSerif.plain; fill=#000000">Text=&quot;A wallet must never contain a </text>
+<text  x="239" y="213" style="font-size:12; font-family:SansSerif.plain; fill=#000000">negative number of coins&quot;</text>
+<text  x="239" y="225" style="font-size:12; font-family:SansSerif.plain; fill=#000000">Kind=&quot;Functional&quot;</text>
+<text  x="239" y="237" style="font-size:12; font-family:SansSerif.plain; fill=#000000">Risk=&quot;Low&quot;</text>
+<rect  x="580" y="246" width="150" height="30" fill="none" stroke="#000000" stroke-width="1"/>
+<line  x1="580" y1="276" x2="730" y2="276" stroke="#000000" stroke-width="1" fill="none"/>
+<rect  x="581" y="247" width="148" height="28" fill="#e4f1f2"/>
+<rect  x="581" y="277" width="148" height="-2" fill="#cdc46d"/>
+<text  x="623" y="256" style="font-size:10; font-family:SansSerif.plain; fill=#000000">&lt;&lt;Property&gt;&gt;</text>
+<text  x="600" y="268" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">WalletCoinProperty</text>
+<rect  x="627" y="376" width="171" height="30" fill="none" stroke="#000000" stroke-width="1"/>
+<line  x1="627" y1="406" x2="798" y2="406" stroke="#000000" stroke-width="1" fill="none"/>
+<rect  x="628" y="377" width="169" height="28" fill="#e4f1f2"/>
+<rect  x="628" y="407" width="169" height="-2" fill="#cdc46d"/>
+<text  x="681" y="386" style="font-size:10; font-family:SansSerif.plain; fill=#000000">&lt;&lt;Property&gt;&gt;</text>
+<text  x="641" y="398" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">BeverageDeliverProperty</text>
+<rect  x="10" y="182" width="150" height="120" fill="none" stroke="#000000" stroke-width="1"/>
+<line  x1="10" y1="212" x2="160" y2="212" stroke="#000000" stroke-width="1" fill="none"/>
+<rect  x="11" y="183" width="148" height="28" fill="#e4f1f2"/>
+<rect  x="11" y="213" width="148" height="88" fill="#cdc46d"/>
+<text  x="42" y="192" style="font-size:10; font-family:SansSerif.plain; fill=#000000">&lt;&lt;Requirement&gt;&gt;</text>
+<text  x="28" y="204" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">Req_CoffeeMachine</text>
+<text  x="15" y="224" style="font-size:12; font-family:SansSerif.plain; fill=#000000">ID=0</text>
+<text  x="15" y="236" style="font-size:12; font-family:SansSerif.plain; fill=#000000">...</text>
+<text  x="15" y="248" style="font-size:12; font-family:SansSerif.plain; fill=#000000">Kind=&quot;Functional&quot;</text>
+<text  x="15" y="260" style="font-size:12; font-family:SansSerif.plain; fill=#000000">Risk=&quot;Low&quot;</text>
+<text  x="15" y="272" style="font-size:12; font-family:SansSerif.plain; fill=#000000">Reference elements=&quot;&quot;</text>
+<rect  x="47" y="457" width="301" height="120" fill="none" stroke="#000000" stroke-width="1"/>
+<line  x1="47" y1="487" x2="348" y2="487" stroke="#000000" stroke-width="1" fill="none"/>
+<rect  x="48" y="458" width="299" height="28" fill="#e4f1f2"/>
+<rect  x="48" y="488" width="299" height="88" fill="#cdc46d"/>
+<text  x="155" y="467" style="font-size:10; font-family:SansSerif.plain; fill=#000000">&lt;&lt;Requirement&gt;&gt;</text>
+<text  x="153" y="479" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">Req_Availability</text>
+<text  x="52" y="499" style="font-size:12; font-family:SansSerif.plain; fill=#000000">ID=0</text>
+<text  x="52" y="511" style="font-size:12; font-family:SansSerif.plain; fill=#000000">Text=&quot;The availability of the machine shall be</text>
+<text  x="52" y="523" style="font-size:12; font-family:SansSerif.plain; fill=#000000">no less than 99.99%&quot;</text>
+<text  x="52" y="535" style="font-size:12; font-family:SansSerif.plain; fill=#000000">Kind=&quot;Functional&quot;</text>
+<text  x="52" y="547" style="font-size:12; font-family:SansSerif.plain; fill=#000000">Risk=&quot;Low&quot;</text>
+<text  x="52" y="559" style="font-size:12; font-family:SansSerif.plain; fill=#000000">Reference elements=&quot;&quot;</text>
+<rect  x="661" y="17" width="278" height="120" fill="none" stroke="#000000" stroke-width="1"/>
+<line  x1="661" y1="47" x2="939" y2="47" stroke="#000000" stroke-width="1" fill="none"/>
+<rect  x="662" y="18" width="276" height="28" fill="#e4f1f2"/>
+<rect  x="662" y="48" width="276" height="88" fill="#cdc46d"/>
+<text  x="757" y="27" style="font-size:10; font-family:SansSerif.plain; fill=#000000">&lt;&lt;Requirement&gt;&gt;</text>
+<text  x="783" y="39" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">req00</text>
+<text  x="666" y="59" style="font-size:12; font-family:SansSerif.plain; fill=#000000">ID=0</text>
+<text  x="666" y="71" style="font-size:12; font-family:SansSerif.plain; fill=#000000">Text=&quot;A coin not used within 50 seconds </text>
+<text  x="666" y="83" style="font-size:12; font-family:SansSerif.plain; fill=#000000">must be ejected&quot;</text>
+<text  x="666" y="95" style="font-size:12; font-family:SansSerif.plain; fill=#000000">Kind=&quot;Functional&quot;</text>
+<text  x="666" y="107" style="font-size:12; font-family:SansSerif.plain; fill=#000000">Risk=&quot;Low&quot;</text>
+<text  x="666" y="119" style="font-size:12; font-family:SansSerif.plain; fill=#000000">Reference elements=&quot;&quot;</text>
+</svg>

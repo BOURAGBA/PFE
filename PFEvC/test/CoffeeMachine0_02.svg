@@ -1,0 +1,154 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="998" height="621" viewbox="367 73 631 548">
+<rect  x="527" y="416" width="100" height="55" rx="20" ry="20" fill="#e4f1f2"/>
+<line  x1="528" y1="426" x2="528" y2="461" stroke="#ffffff" stroke-width="1" fill="none"/>
+<line  x1="537" y1="417" x2="617" y2="417" stroke="#ffffff" stroke-width="1" fill="none"/>
+<line  x1="626" y1="426" x2="626" y2="461" stroke="#9fa8a9" stroke-width="1" fill="none"/>
+<line  x1="537" y1="470" x2="617" y2="470" stroke="#9fa8a9" stroke-width="1" fill="none"/>
+<rect  x="527" y="416" width="100" height="55" rx="20" ry="20" fill="none" stroke="#000000" stroke-width="1"/>
+<text  x="539" y="431" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">&lt;&lt;property&gt;&gt;</text>
+<text  x="557" y="446" style="font-size:12; font-family:SansSerif.plain; fill=#000000">prop02</text>
+<text  x="545" y="464" style="font-size:12; font-family:SansSerif.italic; font-style=italic; fill=#000000">reachability</text>
+<rect  x="594" y="495" width="80" height="40" rx="20" ry="20" fill="#e4f1f2"/>
+<line  x1="595" y1="505" x2="595" y2="525" stroke="#ffffff" stroke-width="1" fill="none"/>
+<line  x1="604" y1="496" x2="664" y2="496" stroke="#ffffff" stroke-width="1" fill="none"/>
+<line  x1="673" y1="505" x2="673" y2="525" stroke="#9fa8a9" stroke-width="1" fill="none"/>
+<line  x1="604" y1="534" x2="664" y2="534" stroke="#9fa8a9" stroke-width="1" fill="none"/>
+<rect  x="594" y="495" width="80" height="40" rx="20" ry="20" fill="none" stroke="#000000" stroke-width="1"/>
+<text  x="623" y="512" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">&lt;=&gt;</text>
+<rect  x="546" y="285" width="60" height="100" rx="20" ry="20" fill="#cdc46d"/>
+<line  x1="547" y1="295" x2="547" y2="375" stroke="#ffff9b" stroke-width="1" fill="none"/>
+<line  x1="556" y1="286" x2="596" y2="286" stroke="#ffff9b" stroke-width="1" fill="none"/>
+<line  x1="605" y1="295" x2="605" y2="375" stroke="#8f894c" stroke-width="1" fill="none"/>
+<line  x1="556" y1="384" x2="596" y2="384" stroke="#8f894c" stroke-width="1" fill="none"/>
+<rect  x="546" y="285" width="60" height="100" rx="20" ry="20" fill="none" stroke="#000000" stroke-width="1"/>
+<text  x="554" y="302" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">&lt;&lt;LS&gt;&gt;</text>
+<rect  x="667" y="285" width="59" height="100" rx="20" ry="20" fill="#cdc46d"/>
+<line  x1="668" y1="295" x2="668" y2="375" stroke="#ffff9b" stroke-width="1" fill="none"/>
+<line  x1="677" y1="286" x2="716" y2="286" stroke="#ffff9b" stroke-width="1" fill="none"/>
+<line  x1="725" y1="295" x2="725" y2="375" stroke="#8f894c" stroke-width="1" fill="none"/>
+<line  x1="677" y1="384" x2="716" y2="384" stroke="#8f894c" stroke-width="1" fill="none"/>
+<rect  x="667" y="285" width="59" height="100" rx="20" ry="20" fill="none" stroke="#000000" stroke-width="1"/>
+<text  x="675" y="302" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">&lt;&lt;TC&gt;&gt;</text>
+<text  x="689" y="314" style="font-size:12; font-family:SansSerif.italic; font-style=italic; fill=#000000">=0</text>
+<rect  x="675" y="204" width="100" height="50" rx="20" ry="20" fill="#8fb66e"/>
+<line  x1="676" y1="214" x2="676" y2="244" stroke="#ccff9d" stroke-width="1" fill="none"/>
+<line  x1="685" y1="205" x2="765" y2="205" stroke="#ccff9d" stroke-width="1" fill="none"/>
+<line  x1="774" y1="214" x2="774" y2="244" stroke="#647f4d" stroke-width="1" fill="none"/>
+<line  x1="685" y1="253" x2="765" y2="253" stroke="#647f4d" stroke-width="1" fill="none"/>
+<rect  x="675" y="204" width="100" height="50" rx="20" ry="20" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="725" y="239" width="49" height="15" rx="20" ry="20" fill="#cdc46d"/>
+<line  x1="726" y1="249" x2="726" y2="244" stroke="#ffff9b" stroke-width="1" fill="none"/>
+<line  x1="735" y1="240" x2="764" y2="240" stroke="#ffff9b" stroke-width="1" fill="none"/>
+<line  x1="773" y1="249" x2="773" y2="244" stroke="#8f894c" stroke-width="1" fill="none"/>
+<line  x1="735" y1="253" x2="764" y2="253" stroke="#8f894c" stroke-width="1" fill="none"/>
+<rect  x="725" y="239" width="49" height="15" rx="20" ry="20" fill="none" stroke="#000000" stroke-width="1"/>
+<text  x="686" y="219" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">&lt;&lt;equation&gt;&gt;</text>
+<text  x="685" y="234" style="font-size:12; font-family:SansSerif.plain; fill=#000000">nbOfCoins &gt; 1</text>
+<text  x="733" y="251" style="font-size:12; font-family:SansSerif.italic; font-style=italic; fill=#000000">toggle</text>
+<rect  x="563" y="78" width="268" height="115" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="564" y="79" width="266" height="30" fill="#c1daf1"/>
+<text  x="667" y="93" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">&lt;&lt;block&gt;&gt;</text>
+<text  x="680" y="108" style="font-size:12; font-family:SansSerif.plain; fill=#000000">Wallet</text>
+<rect  x="564" y="110" width="266" height="81" fill="#c1daf1"/>
+<rect  x="721" y="133" width="100" height="50" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="722" y="134" width="98" height="33" fill="#8fb66e"/>
+<rect  x="722" y="168" width="98" height="14" fill="#cdc46d"/>
+<text  x="733" y="148" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">&lt;&lt;attribute&gt;&gt;</text>
+<text  x="741" y="163" style="font-size:12; font-family:SansSerif.plain; fill=#000000">nbOfCoins</text>
+<text  x="754" y="180" style="font-size:12; font-family:SansSerif.italic; font-style=italic; fill=#000000">toggle</text>
+<rect  x="581" y="125" width="100" height="39" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="582" y="126" width="98" height="37" fill="#cdc46d"/>
+<text  x="600" y="140" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">&lt;&lt;signal&gt;&gt;</text>
+<text  x="618" y="155" style="font-size:12; font-family:SansSerif.plain; fill=#000000">Start</text>
+<rect  x="372" y="227" width="132" height="153" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="373" y="228" width="130" height="30" fill="#c1daf1"/>
+<text  x="408" y="242" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">&lt;&lt;block&gt;&gt;</text>
+<text  x="397" y="257" style="font-size:12; font-family:SansSerif.plain; fill=#000000">CoffeeMachine</text>
+<rect  x="373" y="259" width="130" height="119" fill="#c1daf1"/>
+<rect  x="391" y="326" width="100" height="39" fill="none" stroke="#000000" stroke-width="1"/>
+<rect  x="392" y="327" width="98" height="37" fill="#cdc46d"/>
+<text  x="410" y="341" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">&lt;&lt;signal&gt;&gt;</text>
+<text  x="398" y="356" style="font-size:12; font-family:SansSerif.plain; fill=#000000">beverageReady</text>
+<rect  x="562" y="562" width="139" height="54" rx="20" ry="20" fill="#e4f1f2"/>
+<line  x1="563" y1="572" x2="563" y2="606" stroke="#ffffff" stroke-width="1" fill="none"/>
+<line  x1="572" y1="563" x2="691" y2="563" stroke="#ffffff" stroke-width="1" fill="none"/>
+<line  x1="700" y1="572" x2="700" y2="606" stroke="#9fa8a9" stroke-width="1" fill="none"/>
+<line  x1="572" y1="615" x2="691" y2="615" stroke="#9fa8a9" stroke-width="1" fill="none"/>
+<rect  x="562" y="562" width="139" height="54" rx="20" ry="20" fill="none" stroke="#000000" stroke-width="1"/>
+<text  x="593" y="577" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">&lt;&lt;property&gt;&gt;</text>
+<text  x="564" y="592" style="font-size:12; font-family:SansSerif.plain; fill=#000000">BeverageDeliverProperty</text>
+<text  x="609" y="610" style="font-size:12; font-family:SansSerif.italic; font-style=italic; fill=#000000">liveness</text>
+<rect  x="644" y="417" width="100" height="55" rx="20" ry="20" fill="#e4f1f2"/>
+<line  x1="645" y1="427" x2="645" y2="462" stroke="#ffffff" stroke-width="1" fill="none"/>
+<line  x1="654" y1="418" x2="734" y2="418" stroke="#ffffff" stroke-width="1" fill="none"/>
+<line  x1="743" y1="427" x2="743" y2="462" stroke="#9fa8a9" stroke-width="1" fill="none"/>
+<line  x1="654" y1="471" x2="734" y2="471" stroke="#9fa8a9" stroke-width="1" fill="none"/>
+<rect  x="644" y="417" width="100" height="55" rx="20" ry="20" fill="none" stroke="#000000" stroke-width="1"/>
+<text  x="656" y="432" style="font-size:12; font-family:SansSerif.bold; font-weight=bold; fill=#000000">&lt;&lt;property&gt;&gt;</text>
+<text  x="674" y="447" style="font-size:12; font-family:SansSerif.plain; fill=#000000">prop01</text>
+<text  x="662" y="465" style="font-size:12; font-family:SansSerif.italic; font-style=italic; fill=#000000">reachability</text>
+<line  x1="491" y1="345" x2="546" y2="345" stroke="#000000" stroke-width="1" fill="none"/>
+<polygon  points="546,345 537,349 537,340 " fill="#000000"/>
+<polygon  points="546,345 537,349 537,340 " fill="none" stroke="#000000" stroke-width="1"/>
+<text  x="548" y="349" style="font-size:10; font-family:SansSerif.plain; fill=#000000">2</text>
+<ellipse  cx="577" cy="416" rx="5" ry="5" fill="#ffffff"/>
+<ellipse  cx="577" cy="416" rx="5" ry="5" fill="none" stroke="#000000" stroke-width="1"/>
+<line  x1="576" y1="385" x2="576" y2="411" stroke="#000000" stroke-width="1" fill="none"/>
+<polygon  points="576,411 571,402 580,402 " fill="#000000"/>
+<polygon  points="576,411 571,402 580,402 " fill="none" stroke="#000000" stroke-width="1"/>
+<ellipse  cx="576" cy="385" rx="5" ry="5" fill="#ffffff"/>
+<ellipse  cx="576" cy="385" rx="5" ry="5" fill="none" stroke="#000000" stroke-width="1"/>
+<ellipse  cx="711" cy="285" rx="5" ry="5" fill="#ffffff"/>
+<ellipse  cx="711" cy="285" rx="5" ry="5" fill="none" stroke="#000000" stroke-width="1"/>
+<line  x1="710" y1="254" x2="710" y2="280" stroke="#000000" stroke-width="1" fill="none"/>
+<polygon  points="710,280 705,271 714,271 " fill="#000000"/>
+<polygon  points="710,280 705,271 714,271 " fill="none" stroke="#000000" stroke-width="1"/>
+<ellipse  cx="710" cy="254" rx="5" ry="5" fill="#ffffff"/>
+<ellipse  cx="710" cy="254" rx="5" ry="5" fill="none" stroke="#000000" stroke-width="1"/>
+<line  x1="721" y1="158" x2="700" y2="158" stroke="#000000" stroke-width="1" fill="none"/>
+<rect  x="697" y="201" width="5" height="5" fill="#000000"/>
+<rect  x="718" y="155" width="5" height="5" fill="#000000"/>
+<line  x1="700" y1="158" x2="700" y2="201" stroke="#000000" stroke-width="1" fill="none"/>
+<polygon  points="700,201 695,192 704,192 " fill="#000000"/>
+<polygon  points="700,201 695,192 704,192 " fill="none" stroke="#000000" stroke-width="1"/>
+<ellipse  cx="694" cy="417" rx="5" ry="5" fill="#ffffff"/>
+<ellipse  cx="694" cy="417" rx="5" ry="5" fill="none" stroke="#000000" stroke-width="1"/>
+<line  x1="696" y1="385" x2="694" y2="412" stroke="#000000" stroke-width="1" fill="none"/>
+<polygon  points="694,412 689,402 699,403 " fill="#000000"/>
+<polygon  points="694,412 689,402 699,403 " fill="none" stroke="#000000" stroke-width="1"/>
+<ellipse  cx="696" cy="385" rx="5" ry="5" fill="#ffffff"/>
+<ellipse  cx="696" cy="385" rx="5" ry="5" fill="none" stroke="#000000" stroke-width="1"/>
+<line  x1="631" y1="164" x2="631" y2="310" stroke="#000000" stroke-width="1" fill="none"/>
+<line  x1="631" y1="310" x2="667" y2="310" stroke="#000000" stroke-width="1" fill="none"/>
+<polygon  points="667,310 658,314 658,305 " fill="#000000"/>
+<polygon  points="667,310 658,314 658,305 " fill="none" stroke="#000000" stroke-width="1"/>
+<line  x1="581" y1="154" x2="518" y2="154" stroke="#000000" stroke-width="1" fill="none"/>
+<line  x1="518" y1="154" x2="518" y2="305" stroke="#000000" stroke-width="1" fill="none"/>
+<line  x1="518" y1="305" x2="546" y2="305" stroke="#000000" stroke-width="1" fill="none"/>
+<polygon  points="546,305 537,309 537,300 " fill="#000000"/>
+<polygon  points="546,305 537,309 537,300 " fill="none" stroke="#000000" stroke-width="1"/>
+<text  x="548" y="309" style="font-size:10; font-family:SansSerif.plain; fill=#000000">1</text>
+<ellipse  cx="674" cy="505" rx="5" ry="5" fill="#ffffff"/>
+<ellipse  cx="674" cy="505" rx="5" ry="5" fill="none" stroke="#000000" stroke-width="1"/>
+<line  x1="694" y1="472" x2="676" y2="500" stroke="#000000" stroke-width="1" fill="none"/>
+<polygon  points="676,500 676,490 684,495 " fill="#000000"/>
+<polygon  points="676,500 676,490 684,495 " fill="none" stroke="#000000" stroke-width="1"/>
+<ellipse  cx="694" cy="472" rx="5" ry="5" fill="#ffffff"/>
+<ellipse  cx="694" cy="472" rx="5" ry="5" fill="none" stroke="#000000" stroke-width="1"/>
+<ellipse  cx="654" cy="495" rx="5" ry="5" fill="#ffffff"/>
+<ellipse  cx="654" cy="495" rx="5" ry="5" fill="none" stroke="#000000" stroke-width="1"/>
+<line  x1="577" y1="471" x2="649" y2="493" stroke="#000000" stroke-width="1" fill="none"/>
+<polygon  points="649,493 639,495 642,485 " fill="#000000"/>
+<polygon  points="649,493 639,495 642,485 " fill="none" stroke="#000000" stroke-width="1"/>
+<ellipse  cx="577" cy="471" rx="5" ry="5" fill="#ffffff"/>
+<ellipse  cx="577" cy="471" rx="5" ry="5" fill="none" stroke="#000000" stroke-width="1"/>
+<ellipse  cx="631" cy="562" rx="5" ry="5" fill="#ffffff"/>
+<ellipse  cx="631" cy="562" rx="5" ry="5" fill="none" stroke="#000000" stroke-width="1"/>
+<line  x1="634" y1="495" x2="631" y2="557" stroke="#000000" stroke-width="1" fill="none"/>
+<polygon  points="631,557 626,548 636,548 " fill="#000000"/>
+<polygon  points="631,557 626,548 636,548 " fill="none" stroke="#000000" stroke-width="1"/>
+<ellipse  cx="634" cy="495" rx="5" ry="5" fill="#ffffff"/>
+<ellipse  cx="634" cy="495" rx="5" ry="5" fill="none" stroke="#000000" stroke-width="1"/>
+</svg>

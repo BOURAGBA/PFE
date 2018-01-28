@@ -1,0 +1,21 @@
+<mxGraphModel grid="1" background="#ffffff" pageHeight="1169" pageWidth="827" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="523" dx="872">
+  <root>
+    <mxCell id="0"/>
+    <mxCell id="1" parent="0"/>
+    <mxCell value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br/&gt;&lt;b&gt;Interface&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field1: Type&lt;br/&gt;+ field2: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method1(Type): Type&lt;br/&gt;+ method2(Type, Type): Type&lt;/p&gt;" id="8" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#F9FF59;">
+      <mxGeometry as="geometry" y="60" x="270" width="190" height="140"/>
+    </mxCell>
+    <mxCell value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;&lt;b&gt;Class&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ nom: String&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ method(): Type&lt;/p&gt;" id="9" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#CCFDFF;">
+      <mxGeometry as="geometry" y="260" x="280" width="160" height="90"/>
+    </mxCell>
+    <mxCell value="" id="10" parent="1" style="endArrow=classic;html=1;exitX=0.416;exitY=1.036;exitPerimeter=0;entryX=0.413;entryY=-0.022;entryPerimeter=0;" edge="1" source="8" target="9">
+      <mxGeometry as="geometry" width="50" height="50" relative="1">
+        <mxPoint as="sourcePoint" y="410" x="270"/>
+        <mxPoint as="targetPoint" y="360" x="320"/>
+        <Array as="points">
+          <mxPoint y="200" x="350"/>
+        </Array>
+      </mxGeometry>
+    </mxCell>
+  </root>
+</mxGraphModel>
